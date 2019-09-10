@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.github.lokesh159.urlfetch'
+group 'com.github.LOKESH159'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
